@@ -1,1 +1,1 @@
-# xel-tiping-bot-slack-
+# XELSlack
